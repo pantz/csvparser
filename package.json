@@ -1,0 +1,9 @@
+{
+	"name": "CSVParser",
+	"version": "0.0.1",
+	"description": "Convert a docket list to a calendar",
+	"dependencies": {
+		"lodash": "~1.1.1",
+		"id3": "~0.0.2"
+	}
+}
